@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Hello Friend ! Media Team</p>
+    <p>Hello Friend ! Media Team by Dev</p>
 </body>
 </html>
